@@ -15,7 +15,7 @@
  *  Logging.h
  *
  *  Created by Ran Greenberg on 7/05/14.
- *  Copyright 2010 Ran Greenberg
+ *  Copyright 2014 Ran Greenberg
  *
  */
 /*
