@@ -1,4 +1,4 @@
 RGLogger
 ========
 
-Logger for ios
+Logger for iOS
