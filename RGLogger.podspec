@@ -8,12 +8,12 @@ Pod::Spec.new do |s|
   s.source   = { :git => 'https://github.com/gran33/RGLogger.git',
                  :tag => "#{s.version}" }
 
-  s.description = 'Logger for iOS'
+  s.description = 'Logger for iOS without overheads ;)'
 
   s.requires_arc   = true
 
-  s.ios.deployment_target = '2.0'
-  s.osx.deployment_target = '10.7'
+  s.ios.deployment_target = '5.0'
+
   
   s.source_files = 'RGLogger/RGLogger.h'
   
