@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'RGLogger'
-  s.version  = '2.1'
+  s.version  = '2.2'
   s.license  = { :type => 'MIT', :file => 'LICENCE'}
   
   s.summary  = 'Logger for iOS'
