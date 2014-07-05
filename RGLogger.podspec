@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version  = '1.0'
   s.license  = 'PUBLIC'
   s.summary  = 'Logger for iOS'
-  s.homepage = 'https://bitbucket.org/gran33/rglogger-ios/src'
+  s.homepage = 'https://github.com/gran33/RGLogger'
   s.author   = { 'Ran Greenberg' => 'https://github.com/gran33' }
   s.source   = { :git => 'https://github.com/gran33/RGLogger.git',
                  :tag => "#{s.version}" }
