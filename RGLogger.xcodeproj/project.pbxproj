@@ -480,6 +480,7 @@
 				901600D619680C3900F1D6E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		901600D719680C3900F1D6E6 /* Build configuration list for PBXNativeTarget "RGLoggerTests" */ = {
 			isa = XCConfigurationList;
@@ -488,6 +489,7 @@
 				901600D919680C3900F1D6E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
